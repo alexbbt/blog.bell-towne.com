@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Using Google Sheets as a Database"
+date: 2022-04-02
+categories: google-sheets database
+---
+
 # Using Google Sheets as a Database
 
 Yes, I really used Google Sheets as a Database, but not for a mission 
